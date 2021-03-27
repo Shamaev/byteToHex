@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Converter HEX</string>
+
+    <string name="action_opt1">Пункт 1</string>
+    <string name="action_opt2">Пункт 2</string>
+    <string name="action_opt3">Пункт 3</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Начать</string>
+    <string name="about">Введите размер массива</string>
+    <string name="write">Ввод...</string>
+    <string name="translate">Перевести</string>
+</resources>
